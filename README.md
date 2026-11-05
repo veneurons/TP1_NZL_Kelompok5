@@ -1,4 +1,11 @@
 # TP1_NZL_Kelompok5
+Asdos: 
+- Nezaluna Azzahra
+
+Member:
+- Afzy Anifri
+- Gwein Antaresya
+- Hana Haura
 ## Main Idea
 - Project Name: (Community Appointment)
 - Feature:
